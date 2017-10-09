@@ -1,0 +1,12 @@
+com/example/jpa/sessions/AbstractFacade.class
+com/example/rest/services/UploadRESTFile.class
+com/example/jpa/sessions/TipoDocumentoFacade.class
+com/example/jpa/entities/TipoDocumento.class
+com/example/rest/services/UsuarioREST.class
+com/example/rest/services/NewCrossOriginResourceSharingFilter.class
+com/example/jpa/entities/Usuario_.class
+com/example/jpa/sessions/UsuarioFacade.class
+com/example/rest/services/TipoDocumentoREST.class
+com/example/jpa/entities/TipoDocumento_.class
+com/example/jpa/entities/Usuario.class
+com/example/rest/services/AppConfig.class
